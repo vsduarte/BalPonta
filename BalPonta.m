@@ -8,7 +8,7 @@ tic
 %=== INICIALIZAÇÃO ========================================================
 clear all; clc
 %path = './P05_2016';
-path = './Sensibilidade_Caso3';
+path = '../Probabilístico/Sensibilidade_Caso3';
 ERR = 0;
 %path = uigetdir;
 
